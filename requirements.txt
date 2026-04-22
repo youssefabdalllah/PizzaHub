@@ -1,2 +1,2 @@
 pandas
-google-genaritiveai
+google-generativeai
